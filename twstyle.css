@@ -1,0 +1,310 @@
+body {
+    margin: 0;
+    background-color: #e2fbfb;
+
+}
+
+.top-block {
+    position: relative;
+    background-color: #d2f8f8;
+    margin: 0 0 50px 0;
+}
+
+h1 {
+    color: #c08b77;
+    font-family: 'Sacramento';
+    font-size: 5rem;
+
+}
+
+hr {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 10px;
+}
+
+li {
+    line-height: 2;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Montserrat';
+}
+
+.heading {
+    text-align: center;
+    position: absolute;
+    top: 225px;
+    left: 760px;
+
+}
+
+.problem-solver {
+    position: relative;
+    bottom: 40px;
+
+}
+
+h2 {
+    padding: 30px;
+    color: #c08b77;
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+}
+
+.cloud {
+    margin: 0;
+    width: 22%;
+    position: absolute;
+    right: 105px;
+    top: 0;
+
+}
+
+.beach {
+    width: 75%;
+    margin: 0;
+    text-align: left;
+}
+
+profile-pic,
+icon-1,
+icon-2 {
+    width: 10%;
+}
+
+h3 {
+    color: #11999e;
+    font-family: 'Montserrat';
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.icon-1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.icon-2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+
+.icon-3 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.middle-container {
+    text-align: center;
+}
+
+.bottom-container {
+    text-align: center;
+    background-color: #66bfbf;
+    padding: 50px;
+}
+
+.footer-link {
+
+    margin: 10px 20px;
+    color: #11999e;
+    font-family: 'Montserrat';
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: #eaf6f6;
+}
+
+.profile-pic {
+    width: 20%;
+    padding: 20px;
+}
+
+.contact-me {
+    padding: 50px;
+}
+
+.copyright {
+    color: #eaf6f6;
+    font-size: 1rem;
+    padding: 20px;
+}
+
+.contact-message {
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+    line-height: 2;
+    margin-left: 320px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 14px;
+    margin: 30px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+/**************contact page style*************/
+
+.contact-me {
+    background-color: #e2fbfb;
+}
+
+.ch2 {
+    text-align: left;
+    font-family: 'Montserrat';
+    font-size: 1.5em;
+    color: #11999e;
+}
+
+.form {
+    text-align: left;
+    margin-left: 30px;
+    max-width: 500px;
+    padding: 2rem;
+    border: 2px solid #11999e;
+    font-family: 'Montserrat';
+    line-height: 3;
+
+}
+
+#message {
+    padding: 30px;
+    position: relative;
+    top: 20px;
+    font-family: 'Montserrat';
+    border: 2px solid #11999e;
+}
+
+.ch3 {
+    text-align: left;
+    font-family: 'Montserrat';
+    color: #11999e;
+    margin-left: 30px;
+    padding: 20px;
+}
+
+.contact11 {
+    text-align: left;
+    margin-left: 30px;
+    width: 25%;
+    padding: 1rem;
+    border: 2px solid #11999e;
+    font-family: 'Montserrat';
+    line-height: 2;
+    position: relative;
+    top: 30px;
+
+}
+
+.phone {
+    position: absolute;
+    right: 300px;
+    top: 100px;
+    height: 200px;
+}
+
+.message {
+    position: absolute;
+    right: 150px;
+    top: 400px;
+    height: 200px;
+
+}
+
+.t1,.stt {
+
+    border: 2px solid #11999e;
+    width: 25%;
+    border-collapse: collapse;
+    padding: 10px;
+    color: black;
+    background-color: #eaf6f6;
+    margin-left: 30 px;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+
+.education {
+    margin-left: 30px;
+    font-family: 'Montserrat';
+}
+
+.college {
+    color: #11999e;
+    text-decoration: none;
+
+}
+
+.college:hover {
+    color: #c08b77
+}
+
+.food-image {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.fanpage-heading {
+    background-color: #FFF9CA;
+
+}
+
+.fanpage-body {
+    background-color: #FBC5C5;
+}
+
+.exotic {
+    color: gold;
+    font-family: 'Montserrat';
+}
+
+.t2,th,td {
+    padding: 20px;
+    background-color: #FFF9CA;
+    border: 2px solid #FBC5C5;
+    color: gold;
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+}
+.profile-pic{
+    border-radius: 50%;
+}
